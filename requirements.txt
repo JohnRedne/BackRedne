@@ -2,3 +2,4 @@ Flask
 obspy
 requests
 matplotlib
+gunicorn
