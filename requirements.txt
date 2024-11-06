@@ -1,0 +1,4 @@
+Flask
+obspy
+requests
+matplotlib
