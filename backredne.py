@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1FaaNRmssfKuzNmzSTbVEtrcdcPqxygOe
 """
 
-!pip install obspy
-
-!pip install Flask obspy requests pyngrok
-
 from flask import Flask, request, send_file, jsonify
 from obspy import read
 import requests
